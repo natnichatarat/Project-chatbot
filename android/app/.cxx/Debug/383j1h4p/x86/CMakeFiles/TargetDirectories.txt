@@ -1,0 +1,2 @@
+C:/Users/LENOVO/OneDrive - Rajamangala University of Technology Lanna/project/android/app/.cxx/Debug/383j1h4p/x86/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/OneDrive - Rajamangala University of Technology Lanna/project/android/app/.cxx/Debug/383j1h4p/x86/CMakeFiles/rebuild_cache.dir
